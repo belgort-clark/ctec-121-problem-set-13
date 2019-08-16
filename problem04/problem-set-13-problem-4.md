@@ -10,6 +10,8 @@ The class should store the following in attributes:
 - units in inventory
 - price
 
+Please read all of the instructions to the very end.
+
 Once you have written the class, write a program that creates three **RetailItem** objects and stores the following data in them:
 
 ```text
@@ -18,3 +20,5 @@ Jacket              400                     $50.00
 Designer Jeans      20                      $79.00
 Shirt               3000                    $39.94
 ```
+
+- Now write a loop that iterates through the list of objects and displays each of the objects properties.
