@@ -8,7 +8,11 @@ This repository contains three folders. One for each problem.
 
 This assignment contains 3 problems. Each problem is in a separate folder and has it's own readme.md file.
 
-Problem 1 is worth 
+Problem 1 is worth 40 points.
+
+Problem 2 is worth 40 points.
+
+Problem 3 is worth 20 points.
 
 - [Problem 1 - Create a Car Class](https://github.com/belgort-clark/ctec-121-problem-set-13/tree/master/problem01) (worth 40 points)
 - [Problem 2 - Create a Simple Student Class](https://github.com/belgort-clark/ctec-121-problem-set-13/tree/master/problem02) (worth 40 points)
