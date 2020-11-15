@@ -28,4 +28,5 @@ Create a main() function that
 - Create a loop that displays each cars properties for each car object in the list
 - Create another loop that iterates through the list of cars and calls each of the three set methods to change the make, model and year of each car. You will need to complete the code for these.
 - Create a loop that displays each cars properties of each object in the list using the three get methods defined in the class. You will need complete the code for these.
-- Call the main() function to run the program
+- Call the main() function to run the program.
+  
