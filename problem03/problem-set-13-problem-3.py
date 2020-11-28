@@ -11,7 +11,7 @@ def calculate_average(score1, score2, score3, score4, score5):
 def determine_grade(score):
     # your codes goes here
 
-    return letteGrade
+    return letterGrade
 
 
 def main():
